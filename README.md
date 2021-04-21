@@ -1,2 +1,1 @@
-# CPPS
-club penguin private server
+# i have no earthly clue what im doing
